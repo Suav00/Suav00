@@ -2,7 +2,7 @@
 
 🎓 Data Science student at the **University of Texas at Arlington** (Class of 2027)
 📊 Focused on **machine learning, forecasting, and risk modeling**
-🌱 Currently exploring quantitative finance and time series ML
+🌱 Currently exploring Data Science and ML
 📫 Reach me at Shuaibjama96@gmail.com | [LinkedIn](http://linkedin.com/in/shuaib-jama-80219925b)
 
 I build end-to-end ML projects — from raw data to a deployed, interactive dashboard — across healthcare, finance, and energy. Below is a walkthrough of what I've built and what I learned from each one.
